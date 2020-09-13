@@ -1,4 +1,4 @@
-** Superseded by https://github.com/tkw1536/gogenlicense **
+__Superseded by https://github.com/tkw1536/gogenlicense__
  
 # make_license_notices.sh
 
