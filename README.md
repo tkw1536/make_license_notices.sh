@@ -1,3 +1,5 @@
+** Superseded by https://github.com/tkw1536/gogenlicense **
+ 
 # make_license_notices.sh
 
 Generate some go code for license notices. 
